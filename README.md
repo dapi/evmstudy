@@ -33,6 +33,14 @@ https://defillama.com/chains
 
 - https://github.com/OffcierCia/DeFi-Developer-Road-Map
 
+
+## Вкус
+
+- http://remix.ethereum.org/
+- ABI
+- Фронтенд, JS/TS+React, ...
+
+
 ## Что
 
 1. Азы
