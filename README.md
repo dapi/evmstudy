@@ -2,36 +2,36 @@
 
 ## Зачем
 
-https://worldpopulationreview.com/countries/countries-by-gdp
-https://companiesmarketcap.com/
-https://www.coingecko.com/
-https://defillama.com/
+- https://worldpopulationreview.com/countries/countries-by-gdp
+- https://companiesmarketcap.com/
+- https://www.coingecko.com/
+- https://defillama.com/
 
-https://angel.co/jobs
-https://profunctor.io/?level=&scope=&stack=solidity
+- https://angel.co/jobs
+- https://profunctor.io/?level=&scope=&stack=solidity
 
 
 ## Почему
 
 https://defillama.com/chains
 
-EVM: Ethereum, Fanton, Avalanche, Polygon, Optimism, etc
-Non-EVM: Terra, Solana, Tron, Polka, Near -- Rust (BPF) / WASM / ...
+- EVM: Ethereum, Fanton, Avalanche, Polygon, Optimism, etc
+- Non-EVM: Terra, Solana, Tron, Polka, Near -- Rust (BPF) / WASM / ...
 
 
 ## Слова
 
-Dapp, Dapps, Web3
-Blockchain Apps, Smart Contracts, Blockchain Programs
+- Dapp, Dapps, Web3
+- Blockchain Apps, Smart Contracts, Blockchain Programs
 
 
 ## Как
 
-http://remix.ethereum.org/
-https://trufflesuite.com/
-https://hardhat.org/
+- http://remix.ethereum.org/
+- https://trufflesuite.com/
+- https://hardhat.org/
 
-https://github.com/OffcierCia/DeFi-Developer-Road-Map
+- https://github.com/OffcierCia/DeFi-Developer-Road-Map
 
 ## Что
 
@@ -52,6 +52,6 @@ https://github.com/OffcierCia/DeFi-Developer-Road-Map
 
 ## Почитать
 
-https://ethereum.org/en/developers/docs/evm/
-https://docs.soliditylang.org/
+- https://ethereum.org/en/developers/docs/evm/
+- https://docs.soliditylang.org/
 
