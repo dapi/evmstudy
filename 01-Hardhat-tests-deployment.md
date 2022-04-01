@@ -3,6 +3,9 @@
 https://code.visualstudio.com/
 https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity
 
+https://docs.soliditylang.org/en/latest/
+
+
 ## Hardhat
 
 https://nodejs.org/en/
@@ -43,6 +46,9 @@ https://hardhat.org/plugins/
 
 ## Deployment
 
+Модель деплоймента и адрес контракта.
+
+https://ethereum.org/en/developers/docs/smart-contracts/deploying/
 https://ethereum.org/en/developers/docs/networks/
 https://docs.fantom.foundation/tutorials/set-up-metamask-testnet
 
